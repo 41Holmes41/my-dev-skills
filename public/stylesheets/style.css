@@ -1,0 +1,30 @@
+body {
+    padding: 50px;
+  }
+  
+  a {
+    color: rgb(0, 255, 34);
+  }
+  
+  .delete-form {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .delete-form button {
+    color: rgb(183, 0, 255);
+  }
+  
+  li {
+    list-style: none;
+  }
+
+ nav {
+    display: inline-block;
+  } 
+ nav ul {
+    display: inline-block;
+  } 
+  nav ul li {
+    display: inline-block;
+  }
